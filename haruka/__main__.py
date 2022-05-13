@@ -33,7 +33,7 @@ Made from the source code of [Aditya 🇮🇳](t.me/xditya)
 
 Special thanks to [this person](t.me/denver02) for helping me.
 
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
+Deploy a bot like me [now](www.github.com/Ashishb35/GroupManager)
 
 Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
 
